@@ -1,1 +1,1 @@
-QR_app
+QR_code_app
